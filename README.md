@@ -1,6 +1,7 @@
 # data-development-donations
 A space for developing data for Feminist AI LAN Partys
 
+
 ## LLMs
 
 Text-generation and notebooks for text generation.
@@ -40,3 +41,7 @@ Test that it works:
 ```bash
 python -m prodigy stats
 ```
+
+## How to contribute
+
+Fork the repo, do a PR from fork.
